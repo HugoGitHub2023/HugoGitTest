@@ -4,7 +4,7 @@ public class Test
 	{
 	int tableNo=0;
 	for(int i = 1; i <= 5; i++)
-	  System.out.println(tableNo + " * " +
+	  System.out.println(tableNo + " Hugo* " +
 			 i + " = " + tableNo *i);
 	}
 }
